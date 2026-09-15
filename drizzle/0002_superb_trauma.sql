@@ -1,0 +1,1 @@
+ALTER TABLE `prompts` ADD `owner_key` text;
